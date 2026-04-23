@@ -1,4 +1,4 @@
-# pruebas-ab-en-una-tienda-en-l-nea-internacional
+# pruebas A/B en una tienda en línea internacional
 Proyecto de una tarea analítica de una tienda en línea internacional en la que se usó una prueba A/B con el propósito de probar cambios relacionados con la introducción de un sistema de mejoras
 
 ## Descripción técnica
